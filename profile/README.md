@@ -40,8 +40,8 @@
 - 📘 算法竞赛题解与训练笔记  
   包括历年训练记录、题目分类整理等。
 
-- 🛠️ Tiny-LSM 项目（立项中）  
-  一款简易的 LSM-tree 存储引擎。
+- 🛠️ [Mini-KV 数据库](https://github.com/CUMTXH/mini-kv]
+  从0开始，完成最简单的key value数据库。
 
 
 ---
@@ -109,8 +109,8 @@ Our goal is to **understand the true complexity of real-world systems** and **gr
 - 📘 Algorithm Contest Notes & Solutions  
   Includes categorized problems, training logs, and explanations from past practices.
 
-- 🛠️ Tiny-LSM (in planning)  
-  A lightweight LSM-tree storage engine for exploring write-optimized data structures.
+- 🛠️ - 🛠️ [Mini-KV database](https://github.com/CUMTXH/mini-kv]
+  Build a sample key-value database from 0.
 
 ---
 
